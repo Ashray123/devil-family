@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/devil-family/static/css/main.5d8e50d7.chunk.css",
+    "main.js": "/devil-family/static/js/main.91fc6b72.chunk.js",
+    "main.js.map": "/devil-family/static/js/main.91fc6b72.chunk.js.map",
+    "runtime-main.js": "/devil-family/static/js/runtime-main.b1ef1a0e.js",
+    "runtime-main.js.map": "/devil-family/static/js/runtime-main.b1ef1a0e.js.map",
+    "static/js/2.81ae2472.chunk.js": "/devil-family/static/js/2.81ae2472.chunk.js",
+    "static/js/2.81ae2472.chunk.js.map": "/devil-family/static/js/2.81ae2472.chunk.js.map",
+    "index.html": "/devil-family/index.html",
+    "static/css/main.5d8e50d7.chunk.css.map": "/devil-family/static/css/main.5d8e50d7.chunk.css.map",
+    "static/js/2.81ae2472.chunk.js.LICENSE.txt": "/devil-family/static/js/2.81ae2472.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1ef1a0e.js",
+    "static/js/2.81ae2472.chunk.js",
+    "static/css/main.5d8e50d7.chunk.css",
+    "static/js/main.91fc6b72.chunk.js"
+  ]
+}
